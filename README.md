@@ -10,8 +10,6 @@ The main focus is delivering a **polished UI**, clean code structure, and adapta
 ---
 
 ## 📸 Screenshots
-*Add your screenshots here:*
-
 <table>
 <tr>
   <td><img src="assets\images\1.png"  width="200"/></td>
